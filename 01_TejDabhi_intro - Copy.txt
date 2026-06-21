@@ -1,1 +1,11 @@
 mode - unimodal,bimodel,multimodel(If same amount of frequency)
+ex - 1,2,2,3,3,3,4,4,5,6 : Mode = 3 (UniMode) 
+
+
+Range = Maximum-Minimum(Total Spread)
+
+Variance - first we need to find Mean First  
+: \(\sigma^2 = \frac{\sum (x - \mu)^2}{N}\)
+
+Standard Variance - shows consistency
+
