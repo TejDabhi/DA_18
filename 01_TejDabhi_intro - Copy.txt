@@ -1,2 +1,1 @@
-My name is Tej Dabhi 
-I'm learning Data Analytics From Adani Skill Development Center
+mode - unimodal,bimodel,multimodel(If same amount of frequency)
